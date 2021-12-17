@@ -1,0 +1,2 @@
+UnityCrashHandler64.exe filter=lfs diff=lfs merge=lfs -text
+UnityXRSetup.exe filter=lfs diff=lfs merge=lfs -text
